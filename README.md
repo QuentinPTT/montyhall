@@ -15,7 +15,7 @@ Enfin, il nous demande si on veut modifier notre choix pour essayer d'améliorer
 
 La question est donc: <b>Devrions-nous garder notre choix ou choisir la dernière porte qui reste ?</b>
 
-La plupart d'entre nous, répondront à cette question de la manière suivante: "les probabilités sont les mêmes, donc peu importe"
+La plupart d'entre nous, répondraient à cette question de la manière suivante: "les probabilités sont les mêmes, donc peu importe"
 Et bien aussi curieux que cela puisse paraître, nous aurions faux de dire ça. En effet, la probabilité que l'on gagne la voiture en ne changeant pas de porte (1/3) est inférieure au scénario où l'on change de porte (2/3). Cela peut se démontrer de plusieurs façons, soit avec la formule des probabilités totales ou soit avec le théorème de Bayes.
 
 ### L'objectif du fichier python
