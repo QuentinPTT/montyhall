@@ -9,9 +9,11 @@ Imaginons que le présentateur Monty Hall nous place devant trois portes, où se
 
 ### Le déroulement
 
-Tout d'abord, il nous demande de choisir l'une des trois portes situées devant nous
-Ensuite, après l'avoir choisi, Monty Hall va ouvrir l'une des portes où se situe une chèvre (sans bien évidemment ouvrir notre porte choisie)
-Enfin, il nous demande si on veut modifier notre choix pour essayer d'améliorer nos chances.
+<ul>
+<li>Tout d'abord, il nous demande de choisir l'une des trois portes situées devant nous.</li>
+<li>Ensuite, après l'avoir choisi, Monty Hall va ouvrir l'une des portes où se situe une chèvre (sans bien évidemment ouvrir notre porte choisie)</li>
+<li>Enfin, il nous demande si on veut modifier notre choix pour essayer d'améliorer nos chances.</li>
+</ul>
 
 La question est donc: <b>Devrions-nous garder notre choix ou choisir la dernière porte qui reste ?</b>
 
