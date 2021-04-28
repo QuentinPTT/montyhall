@@ -1,4 +1,4 @@
-<p align="center" ><img width="1102" src="img/montyhall_background.png.png"></p>
+<p align="center" ><img width="1102" src="img/montyhall_background.png"></p>
 
 ## ▶️ Le paradoxe de Monty Hall
 Le paradoxe de Monty Hall est un problème probabiliste établi par Steve Selvin. Monty Hall vient du nom du présentateur du jeu télévisé "Let's Make a Deal" qui a inspiré la création de ce problème.
